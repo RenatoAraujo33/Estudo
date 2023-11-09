@@ -1,0 +1,9 @@
+{
+    "escola": "Etec Adolpho Berezin",
+    "curso": "Informática",
+    "componente": "Programação de Computadores II",
+    "professores": [
+        "Ermogenes",
+        "Nicholas"
+    ]
+}
